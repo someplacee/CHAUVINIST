@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"repository": "someplacee/chauvinist",
 	"author": {
-		"name": "Christian Brendlin",
+		"name": "Christian Brendlin, ALP Productions",
 		"email": "info@alonelyproducer.de",
 		"url": "github.com/someplacee/CHAUVINIST.git"
 	},
@@ -30,7 +30,9 @@
 	"devDependencies": {
 		"electron": "^7.1.1",
 		"electron-builder": "^21.2.0",
+		"inquirer": "^8.0.0",
 		"np": "^5.0.3",
+		"ora": "^5.3.0",
 		"xo": "^0.25.3"
 	},
 	"xo": {
