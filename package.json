@@ -42,8 +42,8 @@
 		]
 	},
 	"np": {
-		"publish": false,
-		"releaseDraft": false
+		"publish": true,
+		"releaseDraft": true
 	},
 	"build": {
 		"appId": "com.someplacee.chauvinist",
