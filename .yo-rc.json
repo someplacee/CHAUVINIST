@@ -1,0 +1,8 @@
+{
+  "generator-electron": {
+    "promptValues": {
+      "githubUsername": "someplacee",
+      "website": "https://github.com/someplacee/CHAUVINIST.git"
+    }
+  }
+}
